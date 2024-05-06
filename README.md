@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Joan Sebastian Agudelo</h1>
-<h3 align="center">Desarrollador Full-Stack apasionado de Colombia</h3>
+<h3 align="center">Desarrollador Full-Stack de Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Seb-astiam" alt="Seb-astiam" /> </p>
 
