@@ -52,13 +52,6 @@ Soy un **Desarrollador Full-Stack** enfocado en construir aplicaciones web robus
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seb-astiam&show_icons=true&theme=tokyonight" alt="Estadísticas de Joan" />
-</p>
-
----
-
 ## 📫 Conéctate conmigo
 ¿Tienes un proyecto en mente o quieres charlar sobre tecnología?
 * **LinkedIn:** [Joan Sebastian Agudelo](https://www.linkedin.com/in/joan-agudelo-2610b9281/)
